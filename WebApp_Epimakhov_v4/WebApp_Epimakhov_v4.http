@@ -1,0 +1,6 @@
+@WebApp_Epimakhov_v4_HostAddress = http://localhost:5269
+
+GET {{WebApp_Epimakhov_v4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
