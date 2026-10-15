@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\controllers\\classcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\controllers\\classcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|c:\\users\\luna0_0\\desktop\\4 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_webapi\\webapp_epimakhov_v4\\webapp_epimakhov_v4\\controllers\\classcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E382C0C-4453-43B1-80DF-56F62DB4F62C}|WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4.csproj|solutionrelative:webapp_epimakhov_v4\\controllers\\classcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ClassCar.cs",
               "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\Controllers\\ClassCar.cs",
               "RelativeDocumentMoniker": "WebApp_Epimakhov_v4\\Controllers\\ClassCar.cs",
@@ -46,19 +42,7 @@
               "RelativeToolTip": "WebApp_Epimakhov_v4\\Controllers\\ClassCar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:07:57.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApp_Epimakhov_v4\\appsettings.json",
-              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\appsettings.json",
-              "RelativeToolTip": "WebApp_Epimakhov_v4\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-14T16:42:07.934Z",
+              "WhenOpened": "2026-10-14T17:07:57.361Z",
               "EditorCaption": ""
             },
             {
@@ -69,19 +53,20 @@
               "RelativeDocumentMoniker": "WebApp_Epimakhov_v4\\Program.cs",
               "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\Program.cs",
               "RelativeToolTip": "WebApp_Epimakhov_v4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:12:27.832Z"
+              "WhenOpened": "2026-10-14T11:12:27.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CarController.cs",
               "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\Controllers\\CarController.cs",
               "RelativeDocumentMoniker": "WebApp_Epimakhov_v4\\Controllers\\CarController.cs",
               "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\Controllers\\CarController.cs",
               "RelativeToolTip": "WebApp_Epimakhov_v4\\Controllers\\CarController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAswCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T08:46:41.588Z",
               "EditorCaption": ""
@@ -96,19 +81,21 @@
               "RelativeToolTip": "WebApp_Epimakhov_v4\\Models\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T08:45:17.091Z"
+              "WhenOpened": "2026-10-08T08:45:17.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "WebApiDatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\Models\\WebApiDatabaseContext.cs",
               "RelativeDocumentMoniker": "WebApp_Epimakhov_v4\\Models\\WebApiDatabaseContext.cs",
               "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\4 \u041A\u0423\u0420\u0421\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_6_WebApi\\WebApp_Epimakhov_v4\\WebApp_Epimakhov_v4\\Models\\WebApiDatabaseContext.cs",
               "RelativeToolTip": "WebApp_Epimakhov_v4\\Models\\WebApiDatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T08:45:04.716Z"
+              "WhenOpened": "2026-10-08T08:45:04.716Z",
+              "EditorCaption": ""
             }
           ]
         }

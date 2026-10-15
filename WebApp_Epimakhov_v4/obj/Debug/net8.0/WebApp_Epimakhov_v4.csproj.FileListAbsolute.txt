@@ -169,3 +169,4 @@ C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_6_WebApi\WebApp_Ep
 C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_6_WebApi\WebApp_Epimakhov_v4\WebApp_Epimakhov_v4\obj\Debug\net8.0\WebApp_Epimakhov_v4.pdb
 C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_6_WebApi\WebApp_Epimakhov_v4\WebApp_Epimakhov_v4\obj\Debug\net8.0\WebApp_Epimakhov_v4.genruntimeconfig.cache
 C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_6_WebApi\WebApp_Epimakhov_v4\WebApp_Epimakhov_v4\obj\Debug\net8.0\ref\WebApp_Epimakhov_v4.dll
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_6_WebApi\WebApp_Epimakhov_v4\WebApp_Epimakhov_v4\obj\Debug\net8.0\WebApp_Epimakhov_v4.sourcelink.json

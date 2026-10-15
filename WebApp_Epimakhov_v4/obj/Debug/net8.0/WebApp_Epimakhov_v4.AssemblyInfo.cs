@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApp_Epimakhov_v4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a4050c46de608f2147da2921a423f7201fccfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApp_Epimakhov_v4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApp_Epimakhov_v4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
